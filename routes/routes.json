@@ -1,43 +1,48 @@
 {
-    "status": 1,
-    "dataRowCount": 0,
-    "data": {
-      "OROB7BJ220": [
-        "OROB7BJ220",
-        "OROB8DJ225",
-        "OROBBA41227",
-        "ORNA6E5454"
-      ],
-      "OROB8DJ225": [
-        "ORN1OIH27",
-        "ORN3RJS28",
-        "ORO6HBU205",
-        "ORO6HBX207",
-        "ORO5RBP91",
-        "ORO5UB598"
-      ],
-      "OROBBA41227": [
-        "ORO65F45120",
-        "ORO65F49123",
-        "ORNCKHL75",
-        "ORO4ME3686",
-        "OROB6JJ219",
-        "ORL8JK42561"
-      ],
-      "ORO5LD3688": [
-        "ORO4MJL87",
-        "ORN4RJ834",
-        "ORLATG401",
-        "ORO4MEA84",
-        "ORL8Q801",
-        "ORO7NID215"
-      ],
-      "ORNBGC058": [
-        "OROBBG57230",
-        "OROB7CT221",
-        "ORM1VBP9",
-        "OROB8H9226",
-        "OROBDB6237"
-      ]
-    }
+  "status": 1,
+  "dataRowCount": 0,
+  "routes": {
+    "OROB7BJ220": [
+      {
+        "id": "OROB7BJ220",
+        "title": "Chennai"
+      },
+      {
+        "id": "OROB7BJ221",
+        "title": "Madurai"
+      },
+      {
+        "id": "OROB7BJ222",
+        "title": "Coimbatore"
+      }
+    ],
+    "OROB8DJ225": [
+      {
+        "id": "OROB7BJ223",
+        "title": "Namakkal"
+      },
+      {
+        "id": "OROB7BJ224",
+        "title": "Trichy"
+      },
+      {
+        "id": "OROB7BJ225",
+        "title": "Salem"
+      }
+    ],
+    "OROBBA41227": [
+      {
+        "id": "OROB7BJ226",
+        "title": "Bangalore"
+      },
+      {
+        "id": "OROB7BJ227",
+        "title": "Pollachi"
+      },
+      {
+        "id": "OROB7BJ228",
+        "title": "Karur"
+      }
+    ]
   }
+}
