@@ -1,0 +1,91 @@
+{
+    "status": 1,
+    "dataRowCount": 3,
+    "datetime": "2026-09-22 01:30:00",
+    "data": [
+        {
+            "code": "STP-001-PG-60N",
+            "name": "Perungudi",
+            "activeFlag": 1,
+            "gsmCode": "868651062733550",
+            "deviceImeiCode": "868651062733550",
+            "deviceNumber": "868651062733550",
+            "location": {
+                "code": "LOC588D76C",
+                "name": "Perungudi STP",
+                "activeFlag": 1
+            },
+            "lookupCode": "",
+            "signalStrength": 85,
+            "deviceStatusEM": {
+                "code": "ACTIVE",
+                "name": "Active",
+                "activeFlag": 1
+            },
+            "flowMinRange": 0.0,
+            "flowMaxRange": 1000.0,
+            "flowValue": 394.28,
+            "levelMaxRange": 10.0,
+            "levelMinRange": 0.0,
+            "levelValue": 6.65,
+            "latLong": "12.9601,80.2465",
+            "remarks": ""
+        },
+        {
+            "code": "STP-002-KK-45N",
+            "name": "Kodungaiyur",
+            "activeFlag": 1,
+            "gsmCode": "868651062733551",
+            "deviceImeiCode": "868651062733551",
+            "deviceNumber": "868651062733551",
+            "location": {
+                "code": "LOC588D76D",
+                "name": "Kodungaiyur STP",
+                "activeFlag": 1
+            },
+            "lookupCode": "",
+            "signalStrength": 72,
+            "deviceStatusEM": {
+                "code": "ACTIVE",
+                "name": "Active",
+                "activeFlag": 1
+            },
+            "flowMinRange": 0.0,
+            "flowMaxRange": 1200.0,
+            "flowValue": 512.64,
+            "levelMaxRange": 12.0,
+            "levelMinRange": 0.0,
+            "levelValue": 7.82,
+            "latLong": "13.1486,80.2582",
+            "remarks": ""
+        },
+        {
+            "code": "STP-003-NV-30N",
+            "name": "Nesapakkam",
+            "activeFlag": 1,
+            "gsmCode": "868651062733552",
+            "deviceImeiCode": "868651062733552",
+            "deviceNumber": "868651062733552",
+            "location": {
+                "code": "LOC588D76E",
+                "name": "Nesapakkam STP",
+                "activeFlag": 1
+            },
+            "lookupCode": "",
+            "signalStrength": 91,
+            "deviceStatusEM": {
+                "code": "ACTIVE",
+                "name": "Active",
+                "activeFlag": 1
+            },
+            "flowMinRange": 0.0,
+            "flowMaxRange": 800.0,
+            "flowValue": 286.43,
+            "levelMaxRange": 8.0,
+            "levelMinRange": 0.0,
+            "levelValue": 4.91,
+            "latLong": "13.0418,80.1920",
+            "remarks": ""
+        }
+    ]
+}
