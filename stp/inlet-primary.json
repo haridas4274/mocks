@@ -1,0 +1,155 @@
+{
+    "status": 1,
+    "dataRowCount": 0,
+    "datetime": "2026-09-25 20:13:00",
+    "data": {
+        "fit104M3Hr": {
+            "value": 959.4019165039062,
+            "desc": "FIT-104 (M3/HR)"
+        },
+        "fit104M3": {
+            "value": 1153157.625,
+            "desc": "FIT-104 (M3)"
+        },
+        "fit103M3Hr": {
+            "value": 651.864501953125,
+            "desc": "FIT-103 (M3/HR)"
+        },
+        "fit103M3": {
+            "value": 4367666.0,
+            "desc": "FIT-103 (M3)"
+        },
+        "fit102M3Hr": {
+            "value": 0.0,
+            "desc": "FIT-102 (M3/HR)"
+        },
+        "fit102M3": {
+            "value": 8104088.5,
+            "desc": "FIT-102 (M3)"
+        },
+        "fit101M3Hr": {
+            "value": 383.8478698730469,
+            "desc": "FIT-101 (M3/HR)"
+        },
+        "fit101M3": {
+            "value": 1.1458456E7,
+            "desc": "FIT-101 (M3)"
+        },
+        "ait101Ph": {
+            "value": 0.0,
+            "desc": "AIT-101/PH"
+        },
+        "ait101Nh4n": {
+            "value": 0.0,
+            "desc": "AIT-101/NH4N"
+        },
+        "ait101Bod": {
+            "value": 0.0,
+            "desc": "AIT-101/BOD"
+        },
+        "ait101Tss": {
+            "value": 0.0,
+            "desc": "AIT-101/TSS"
+        },
+        "ait101No3": {
+            "value": 0.0,
+            "desc": "AIT-101/NO3"
+        },
+        "ait101Cod": {
+            "value": 0.0,
+            "desc": "AIT-101/COD"
+        },
+        "ait101Temp": {
+            "value": 0.0,
+            "desc": "AIT-101/TEMP"
+        },
+        "lit201": {
+            "value": 0.7150442004203796,
+            "desc": "LIT-201 (M)"
+        },
+        "lit202": {
+            "value": 0.7616664171218872,
+            "desc": "LIT-202 (M)"
+        },
+        "fit301M3Hr": {
+            "value": 1589.105224609375,
+            "desc": "FIT301 (M3/HR)"
+        },
+        "fit301M3": {
+            "value": 8153883.5,
+            "desc": "FIT301 (M3)"
+        },
+        "ls101": {
+            "value": 1,
+            "desc": "LS-101"
+        },
+        "ls102": {
+            "value": 0,
+            "desc": "LS-102"
+        },
+        "ls103": {
+            "value": 0,
+            "desc": "LS-103"
+        },
+        "ls104": {
+            "value": 0,
+            "desc": "LS-104"
+        },
+        "ls201": {
+            "value": 0,
+            "desc": "LS-201"
+        },
+        "ld202": {
+            "value": 0,
+            "desc": "LD-202"
+        },
+        "trq201": {
+            "value": 0,
+            "desc": "TRQ 201"
+        },
+        "trq202": {
+            "value": 0,
+            "desc": "TRQ 202"
+        },
+        "mecCs01": {
+            "value": 1,
+            "desc": "MEC CS-01"
+        },
+        "mecCs02": {
+            "value": 0,
+            "desc": "MEC CS-02"
+        },
+        "mecFs01": {
+            "value": 0,
+            "desc": "MEC FS-01"
+        },
+        "mecFs02": {
+            "value": 1,
+            "desc": "MEC FS-02"
+        },
+        "mcsBc": {
+            "value": 0,
+            "desc": "MCS-BC"
+        },
+        "mcfBc": {
+            "value": 0,
+            "desc": "MCF-BC"
+        },
+        "gc001": {
+            "value": 0,
+            "desc": "GC-001"
+        },
+        "gc002": {
+            "value": 0,
+            "desc": "GC-002"
+        },
+        "orp01": {
+            "value": 0,
+            "desc": "ORP-01"
+        },
+        "orp02": {
+            "value": 0,
+            "desc": "ORP-02"
+        }
+    }
+}
