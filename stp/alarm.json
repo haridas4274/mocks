@@ -1,0 +1,1607 @@
+{
+    "status": 1,
+    "dataRowCount": 0,
+    "datetime": "2026-09-28 17:36:29",
+    "data": {
+        "al1Bit0": {
+            "value": 0,
+            "desc": "Detritor_01 Run FB Fault"
+        },
+        "al1Bit1": {
+            "value": 0,
+            "desc": "Detritor_01 Tripped"
+        },
+        "al1Bit2": {
+            "value": 0,
+            "desc": "Detritor_02 Run FB Fault"
+        },
+        "al1Bit3": {
+            "value": 0,
+            "desc": "Detritor_02 Tripped"
+        },
+        "al1Bit4": {
+            "value": 0,
+            "desc": "Grit_Classifier_01 Run FB Fault"
+        },
+        "al1Bit5": {
+            "value": 0,
+            "desc": "Grit_Classifier_01 Tripped"
+        },
+        "al1Bit6": {
+            "value": 0,
+            "desc": "Grit_Classifier_02 Run FB Fault"
+        },
+        "al1Bit7": {
+            "value": 0,
+            "desc": "Grit_Classifier_02 Tripped"
+        },
+        "al1Bit8": {
+            "value": 0,
+            "desc": "Organic_Return_Pump_01 Run FB Fault"
+        },
+        "al1Bit9": {
+            "value": 0,
+            "desc": "Organic_Return_Pump_01 Tripped"
+        },
+        "al1Bit10": {
+            "value": 0,
+            "desc": "Organic_Return_Pump_02 Run FB Fault"
+        },
+        "al1Bit11": {
+            "value": 0,
+            "desc": "Organic_Return_Pump_02 Tripped"
+        },
+        "al1Bit12": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al1Bit13": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al1Bit14": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al1Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al2Bit0": {
+            "value": 0,
+            "desc": "Primary_Classifier_01   Run FB Fault"
+        },
+        "al2Bit1": {
+            "value": 0,
+            "desc": "Primary_Classifier_01   Tripped"
+        },
+        "al2Bit2": {
+            "value": 0,
+            "desc": "Primary_Classifier_02   Run FB Fault"
+        },
+        "al2Bit3": {
+            "value": 0,
+            "desc": "Primary_Classifier_02   Tripped"
+        },
+        "al2Bit4": {
+            "value": 0,
+            "desc": "Primary_Scum_Pump_01   Run FB Fault"
+        },
+        "al2Bit5": {
+            "value": 0,
+            "desc": "Primary_Scum_Pump_01   Tripped"
+        },
+        "al2Bit6": {
+            "value": 0,
+            "desc": "Primary_Scum_Pump_02   Run FB Fault"
+        },
+        "al2Bit7": {
+            "value": 0,
+            "desc": "Primary_Scum_Pump_02   Tripped"
+        },
+        "al2Bit8": {
+            "value": 0,
+            "desc": "Primary_Sludge_Pump_01   Run FB Fault"
+        },
+        "al2Bit9": {
+            "value": 0,
+            "desc": "Primary_Sludge_Pump_01   Tripped"
+        },
+        "al2Bit10": {
+            "value": 0,
+            "desc": "Primary_Sludge_Pump_02   Run FB Fault"
+        },
+        "al2Bit11": {
+            "value": 1,
+            "desc": "Primary_Sludge_Pump_02   Tripped"
+        },
+        "al2Bit12": {
+            "value": 0,
+            "desc": "Primary_Sludge_Thickner   Run FB Fault"
+        },
+        "al2Bit13": {
+            "value": 0,
+            "desc": "Primary_Sludge_Thickner   Tripped"
+        },
+        "al2Bit14": {
+            "value": 0,
+            "desc": "Secondary_Sludge_Thickner   Run FB Fault"
+        },
+        "al2Bit15": {
+            "value": 0,
+            "desc": "Secondary_Sludge_Thickner   Tripped"
+        },
+        "al3Bit0": {
+            "value": 0,
+            "desc": "Secondary_Thickner_Sludge_Pump_01 Run   FB Fault"
+        },
+        "al3Bit1": {
+            "value": 0,
+            "desc": "Secondary_Thickner_Sludge_Pump_01   Tripped"
+        },
+        "al3Bit2": {
+            "value": 0,
+            "desc": "Secondary_Thickner_Sludge_Pump_02   Run FB Fault"
+        },
+        "al3Bit3": {
+            "value": 0,
+            "desc": "Secondary_Thickner_Sludge_Pump_02   Tripped"
+        },
+        "al3Bit4": {
+            "value": 0,
+            "desc": "Secondary_Sludge_Pump_01   Run FB Fault"
+        },
+        "al3Bit5": {
+            "value": 0,
+            "desc": "Secondary_Sludge_Pump_01   Tripped"
+        },
+        "al3Bit6": {
+            "value": 0,
+            "desc": "Secondary_Sludge_Pump_02   Run FB Fault"
+        },
+        "al3Bit7": {
+            "value": 0,
+            "desc": "Secondary_Sludge_Pump_02   Tripped"
+        },
+        "al3Bit8": {
+            "value": 0,
+            "desc": "Sludge_Air_Blower_01   Run FB Fault"
+        },
+        "al3Bit9": {
+            "value": 0,
+            "desc": "Sludge_Air_Blower_01   Tripped"
+        },
+        "al3Bit10": {
+            "value": 0,
+            "desc": "Sludge_Air_Blower_02   Run FB Fault"
+        },
+        "al3Bit11": {
+            "value": 0,
+            "desc": "Sludge_Air_Blower_02   Tripped"
+        },
+        "al3Bit12": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al3Bit13": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al3Bit14": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al3Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al4Bit0": {
+            "value": 0,
+            "desc": "Primary_Thickner_Sludge_Pump_01 Run   FB Fault"
+        },
+        "al4Bit1": {
+            "value": 0,
+            "desc": "Primary_Thickner_Sludge_Pump_01   Tripped"
+        },
+        "al4Bit2": {
+            "value": 0,
+            "desc": "Primary_Thickner_Sludge_Pump_02   Run FB Fault"
+        },
+        "al4Bit3": {
+            "value": 0,
+            "desc": "Primary_Thickner_Sludge_Pump_02   Tripped"
+        },
+        "al4Bit4": {
+            "value": 0,
+            "desc": "Sludge_Digestor_Mixing_Pump_01   Run FB Fault"
+        },
+        "al4Bit5": {
+            "value": 0,
+            "desc": "Sludge_Digestor_Mixing_Pump_01   Tripped"
+        },
+        "al4Bit6": {
+            "value": 0,
+            "desc": "Sludge_Digestor_Mixing_Pump_02   Run FB Fault"
+        },
+        "al4Bit7": {
+            "value": 0,
+            "desc": "Sludge_Digestor_Mixing_Pump_02   Tripped"
+        },
+        "al4Bit8": {
+            "value": 0,
+            "desc": "Sludge_Digestor_Mixing_Pump_03   Run FB Fault"
+        },
+        "al4Bit9": {
+            "value": 0,
+            "desc": "Sludge_Digestor_Mixing_Pump_03   Tripped"
+        },
+        "al4Bit10": {
+            "value": 0,
+            "desc": "Sludge_Digestor_Mixing_Pump_04   Run FB Fault"
+        },
+        "al4Bit11": {
+            "value": 1,
+            "desc": "Sludge_Digestor_Mixing_Pump_04   Tripped"
+        },
+        "al4Bit12": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al4Bit13": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al4Bit14": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al4Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al5Bit0": {
+            "value": 0,
+            "desc": "Centrifuge_Feed_Pump_01 Run FB Fault"
+        },
+        "al5Bit1": {
+            "value": 0,
+            "desc": "Centrifuge_Feed_Pump_01   Tripped"
+        },
+        "al5Bit2": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al5Bit3": {
+            "value": 1,
+            "desc": "Spare"
+        },
+        "al5Bit4": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al5Bit5": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al5Bit6": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al5Bit7": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al5Bit8": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al5Bit9": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al5Bit10": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al5Bit11": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al5Bit12": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al5Bit13": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al5Bit14": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al5Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al6Bit0": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al6Bit1": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al6Bit2": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al6Bit3": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al6Bit4": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al6Bit5": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al6Bit6": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al6Bit7": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al6Bit8": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al6Bit9": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al6Bit10": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al6Bit11": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al6Bit12": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al6Bit13": {
+            "value": 1,
+            "desc": "Spare"
+        },
+        "al6Bit14": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al6Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al7Bit0": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al7Bit1": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al7Bit2": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al7Bit3": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al7Bit4": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al7Bit5": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al7Bit6": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al7Bit7": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al7Bit8": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al7Bit9": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al7Bit10": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al7Bit11": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al7Bit12": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al7Bit13": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al7Bit14": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al7Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al8Bit0": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al8Bit1": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al8Bit2": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al8Bit3": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al8Bit4": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al8Bit5": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al8Bit6": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al8Bit7": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al8Bit8": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al8Bit9": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al8Bit10": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al8Bit11": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al8Bit12": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al8Bit13": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al8Bit14": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al8Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al9Bit0": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al9Bit1": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al9Bit2": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al9Bit3": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al9Bit4": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al9Bit5": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al9Bit6": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al9Bit7": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al9Bit8": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al9Bit9": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al9Bit10": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al9Bit11": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al9Bit12": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al9Bit13": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al9Bit14": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al9Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al10Bit0": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al10Bit1": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al10Bit2": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al10Bit3": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al10Bit4": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al10Bit5": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al10Bit6": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al10Bit7": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al10Bit8": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al10Bit9": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al10Bit10": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al10Bit11": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al10Bit12": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al10Bit13": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al10Bit14": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al10Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al11Bit0": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al11Bit1": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al11Bit2": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al11Bit3": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al11Bit4": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al11Bit5": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al11Bit6": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al11Bit7": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al11Bit8": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al11Bit9": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al11Bit10": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al11Bit11": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al11Bit12": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al11Bit13": {
+            "value": 1,
+            "desc": "Spare"
+        },
+        "al11Bit14": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al11Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al12Bit0": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al12Bit1": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al12Bit2": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al12Bit3": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al12Bit4": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al12Bit5": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al12Bit6": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al12Bit7": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al12Bit8": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al12Bit9": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al12Bit10": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al12Bit11": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al12Bit12": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al12Bit13": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al12Bit14": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al12Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al13Bit0": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al13Bit1": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al13Bit2": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al13Bit3": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al13Bit4": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al13Bit5": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al13Bit6": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al13Bit7": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al13Bit8": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al13Bit9": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al13Bit10": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al13Bit11": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al13Bit12": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al13Bit13": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al13Bit14": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al13Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al14Bit0": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al14Bit1": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al14Bit2": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al14Bit3": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al14Bit4": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al14Bit5": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al14Bit6": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al14Bit7": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al14Bit8": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al14Bit9": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al14Bit10": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al14Bit11": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al14Bit12": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al14Bit13": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al14Bit14": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al14Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al15Bit0": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al15Bit1": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al15Bit2": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al15Bit3": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al15Bit4": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al15Bit5": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al15Bit6": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al15Bit7": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al15Bit8": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al15Bit9": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al15Bit10": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al15Bit11": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al15Bit12": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al15Bit13": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al15Bit14": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al15Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al16Bit0": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al16Bit1": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al16Bit2": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al16Bit3": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al16Bit4": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al16Bit5": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al16Bit6": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al16Bit7": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al16Bit8": {
+            "value": 1,
+            "desc": "Spare"
+        },
+        "al16Bit9": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al16Bit10": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al16Bit11": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al16Bit12": {
+            "value": 0,
+            "desc": "AIT-301_pH_Low"
+        },
+        "al16Bit13": {
+            "value": 0,
+            "desc": "AIT-301_pH_High"
+        },
+        "al16Bit14": {
+            "value": 0,
+            "desc": "AIT-301_pH_Wire Break"
+        },
+        "al16Bit15": {
+            "value": 0,
+            "desc": "TIT-102_Low"
+        },
+        "al17Bit0": {
+            "value": 0,
+            "desc": "TIT-102_High"
+        },
+        "al17Bit1": {
+            "value": 0,
+            "desc": "TIT-102_Wire Break"
+        },
+        "al17Bit2": {
+            "value": 0,
+            "desc": "AIT-302_pH_Low"
+        },
+        "al17Bit3": {
+            "value": 0,
+            "desc": "AIT-302_pH_High"
+        },
+        "al17Bit4": {
+            "value": 0,
+            "desc": "AIT-302_pH_Wire Break"
+        },
+        "al17Bit5": {
+            "value": 0,
+            "desc": "LIT-207_Low"
+        },
+        "al17Bit6": {
+            "value": 0,
+            "desc": "LIT-207_High"
+        },
+        "al17Bit7": {
+            "value": 0,
+            "desc": "LIT-207_Wire Break"
+        },
+        "al17Bit8": {
+            "value": 0,
+            "desc": "FIT-105_Low"
+        },
+        "al17Bit9": {
+            "value": 0,
+            "desc": "FIT-105_High"
+        },
+        "al17Bit10": {
+            "value": 0,
+            "desc": "FIT-105_Wire Break"
+        },
+        "al17Bit11": {
+            "value": 0,
+            "desc": "FIT-106_Low"
+        },
+        "al17Bit12": {
+            "value": 0,
+            "desc": "FIT-106_High"
+        },
+        "al17Bit13": {
+            "value": 0,
+            "desc": "FIT-106_Wire Break"
+        },
+        "al17Bit14": {
+            "value": 0,
+            "desc": "LIT-208_Low"
+        },
+        "al17Bit15": {
+            "value": 0,
+            "desc": "LIT-208_High"
+        },
+        "al18Bit0": {
+            "value": 0,
+            "desc": "LIT-207_Low"
+        },
+        "al18Bit1": {
+            "value": 0,
+            "desc": "LIT-207_High"
+        },
+        "al18Bit2": {
+            "value": 0,
+            "desc": "LIT-207_Wire Break"
+        },
+        "al18Bit3": {
+            "value": 0,
+            "desc": "FIT-105_Low"
+        },
+        "al18Bit4": {
+            "value": 0,
+            "desc": "FIT-105_High"
+        },
+        "al18Bit5": {
+            "value": 0,
+            "desc": "FIT-105_Wire Break"
+        },
+        "al18Bit6": {
+            "value": 0,
+            "desc": "FIT-106_Low"
+        },
+        "al18Bit7": {
+            "value": 0,
+            "desc": "FIT-106_High"
+        },
+        "al18Bit8": {
+            "value": 0,
+            "desc": "FIT-106_Wire Break"
+        },
+        "al18Bit9": {
+            "value": 0,
+            "desc": "FIT-107_Low"
+        },
+        "al18Bit10": {
+            "value": 0,
+            "desc": "FIT-107_High"
+        },
+        "al18Bit11": {
+            "value": 0,
+            "desc": "FIT-107_Wire Break"
+        },
+        "al18Bit12": {
+            "value": 0,
+            "desc": "LIT-208_Low"
+        },
+        "al18Bit13": {
+            "value": 0,
+            "desc": "LIT-208_High"
+        },
+        "al18Bit14": {
+            "value": 0,
+            "desc": "LIT-208_Wire Break"
+        },
+        "al18Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al19Bit0": {
+            "value": 0,
+            "desc": "FIT-201_Low"
+        },
+        "al19Bit1": {
+            "value": 0,
+            "desc": "FIT-201_High"
+        },
+        "al19Bit2": {
+            "value": 0,
+            "desc": "FIT-201_Wire Break"
+        },
+        "al19Bit3": {
+            "value": 0,
+            "desc": "FIT-202_Low"
+        },
+        "al19Bit4": {
+            "value": 0,
+            "desc": "FIT-202_High"
+        },
+        "al19Bit5": {
+            "value": 0,
+            "desc": "FIT-202_Wire Break"
+        },
+        "al19Bit6": {
+            "value": 0,
+            "desc": "FIT-203_Low"
+        },
+        "al19Bit7": {
+            "value": 0,
+            "desc": "FIT-203_High"
+        },
+        "al19Bit8": {
+            "value": 0,
+            "desc": "FIT-203_Wire Break"
+        },
+        "al19Bit9": {
+            "value": 0,
+            "desc": "FIT-302_Low"
+        },
+        "al19Bit10": {
+            "value": 0,
+            "desc": "FIT-302_High"
+        },
+        "al19Bit11": {
+            "value": 0,
+            "desc": "FIT-302_Wire Break"
+        },
+        "al19Bit12": {
+            "value": 0,
+            "desc": "AIT-102_pH_Low"
+        },
+        "al19Bit13": {
+            "value": 0,
+            "desc": "AIT-102_pH_High"
+        },
+        "al19Bit14": {
+            "value": 0,
+            "desc": "AIT-102_pH_Wire Break"
+        },
+        "al19Bit15": {
+            "value": 0,
+            "desc": "AIT-102_PO4_Low"
+        },
+        "al20Bit0": {
+            "value": 0,
+            "desc": "FIT-201_Low"
+        },
+        "al20Bit1": {
+            "value": 0,
+            "desc": "FIT-201_High"
+        },
+        "al20Bit2": {
+            "value": 0,
+            "desc": "FIT-201_Wire Break"
+        },
+        "al20Bit3": {
+            "value": 0,
+            "desc": "FIT-202_Low"
+        },
+        "al20Bit4": {
+            "value": 0,
+            "desc": "FIT-202_High"
+        },
+        "al20Bit5": {
+            "value": 0,
+            "desc": "FIT-202_Wire Break"
+        },
+        "al20Bit6": {
+            "value": 0,
+            "desc": "FIT-203_Low"
+        },
+        "al20Bit7": {
+            "value": 0,
+            "desc": "FIT-203_High"
+        },
+        "al20Bit8": {
+            "value": 0,
+            "desc": "FIT-203_Wire Break"
+        },
+        "al20Bit9": {
+            "value": 0,
+            "desc": "FIT-302_Low"
+        },
+        "al20Bit10": {
+            "value": 0,
+            "desc": "FIT-302_High"
+        },
+        "al20Bit11": {
+            "value": 0,
+            "desc": "FIT-302_Wire Break"
+        },
+        "al20Bit12": {
+            "value": 0,
+            "desc": "AIT-102_pH_Low"
+        },
+        "al20Bit13": {
+            "value": 0,
+            "desc": "AIT-102_pH_High"
+        },
+        "al20Bit14": {
+            "value": 0,
+            "desc": "AIT-102_pH_Wire Break"
+        },
+        "al20Bit15": {
+            "value": 0,
+            "desc": "AIT-102_PO4_Low"
+        },
+        "al21Bit0": {
+            "value": 0,
+            "desc": "AIT-102_PO4_High"
+        },
+        "al21Bit1": {
+            "value": 0,
+            "desc": "AIT-102_PO4_Wire Break"
+        },
+        "al21Bit2": {
+            "value": 0,
+            "desc": "AIT-102_NH4_N_Low"
+        },
+        "al21Bit3": {
+            "value": 0,
+            "desc": "AIT-102_NH4_N_High"
+        },
+        "al21Bit4": {
+            "value": 0,
+            "desc": "AIT-102_NH4_N_Wire Break"
+        },
+        "al21Bit5": {
+            "value": 0,
+            "desc": "AIT-102_NH4_Low"
+        },
+        "al21Bit6": {
+            "value": 0,
+            "desc": "AIT-102_NH4_High"
+        },
+        "al21Bit7": {
+            "value": 0,
+            "desc": "AIT-102_NH4_Wire Break"
+        },
+        "al21Bit8": {
+            "value": 0,
+            "desc": "AIT-102_TOC_Low"
+        },
+        "al21Bit9": {
+            "value": 0,
+            "desc": "AIT-102_TOC_High"
+        },
+        "al21Bit10": {
+            "value": 0,
+            "desc": "AIT-102_TOC_Wire Break"
+        },
+        "al21Bit11": {
+            "value": 0,
+            "desc": "AIT-102_TSS_Low"
+        },
+        "al21Bit12": {
+            "value": 0,
+            "desc": "AIT-102_TSS_High"
+        },
+        "al21Bit13": {
+            "value": 0,
+            "desc": "AIT-102_TSS_Wire Break"
+        },
+        "al21Bit14": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al21Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al22Bit0": {
+            "value": 0,
+            "desc": "AIT-102_BOD_Low"
+        },
+        "al22Bit1": {
+            "value": 0,
+            "desc": "AIT-102_BOD_High"
+        },
+        "al22Bit2": {
+            "value": 0,
+            "desc": "AIT-102_BOD_Wire Break"
+        },
+        "al22Bit3": {
+            "value": 0,
+            "desc": "AIT-102_COD_Low"
+        },
+        "al22Bit4": {
+            "value": 0,
+            "desc": "AIT-102_COD_High"
+        },
+        "al22Bit5": {
+            "value": 0,
+            "desc": "AIT-102_COD_Wire Break"
+        },
+        "al22Bit6": {
+            "value": 0,
+            "desc": "AIT-102_NO3_Low"
+        },
+        "al22Bit7": {
+            "value": 0,
+            "desc": "AIT-102_NO3_High"
+        },
+        "al22Bit8": {
+            "value": 0,
+            "desc": "AIT-102_NO3_Wire Break"
+        },
+        "al22Bit9": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al22Bit10": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al22Bit11": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al22Bit12": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al22Bit13": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al22Bit14": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al22Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al23Bit0": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al23Bit1": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al23Bit2": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al23Bit3": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al23Bit4": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al23Bit5": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al23Bit6": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al23Bit7": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al23Bit8": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al23Bit9": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al23Bit10": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al23Bit11": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al23Bit12": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al23Bit13": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al23Bit14": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al23Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al24Bit0": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al24Bit1": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al24Bit2": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al24Bit3": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al24Bit4": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al24Bit5": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al24Bit6": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al24Bit7": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al24Bit8": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al24Bit9": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al24Bit10": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al24Bit11": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al24Bit12": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al24Bit13": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al24Bit14": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al24Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al25Bit0": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al25Bit1": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al25Bit2": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al25Bit3": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al25Bit4": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al25Bit5": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al25Bit6": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al25Bit7": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al25Bit8": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al25Bit9": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al25Bit10": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al25Bit11": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al25Bit12": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al25Bit13": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al25Bit14": {
+            "value": 0,
+            "desc": "Spare"
+        },
+        "al25Bit15": {
+            "value": 0,
+            "desc": "Spare"
+        }
+    }
+}
